@@ -1,0 +1,5 @@
+to_do.txt
+credentials/*.json
+.idea/
+__pycache__
+env
